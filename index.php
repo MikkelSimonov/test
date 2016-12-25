@@ -1,17 +1,10 @@
-<?php
-header ("Content-Type: text/html; charset=utf-8");
-echo "<!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">
-<title>Open Server</title>
+	<meta charset="UTF-8">
+	<title>Document</title>
 </head>
-<body style=\"background: url(fon.png) top left repeat-x\">
-<center>
-<br><br><br><div style=\"width: 600px;\"><span style=\"font-size: 32px; color: green; font-family: Arial, Verdana; text-shadow: 0 1px 0 #fff\">Добро пожаловать в Open Server!</span>
-<br><br><br><span style=\"font-size: 32px; color: #333; font-family: Verdana, Arial;\">Он еще не работает ;-)</span>
-<br><img src=\"st.png\" style=\"margin: 40px 0\"><br><a href=\"http://open-server.ru/docs/\" style=\"font-size: 24px; color: #048acd; font-family: Arial;\">Руководство пользователя</a></span><br><br><br></div>
-</center>
+<body>
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga id dolor delectus voluptatem ad quis est harum ut, eos, accusantium iste doloribus esse. Deserunt vitae sit, velit minima optio numquam perspiciatis pariatur ut ratione blanditiis enim quibusdam, dicta eum unde quasi dolorum nostrum sed quo repudiandae eligendi ad ipsam sequi et modi. Mollitia labore, provident, repellat sunt commodi debitis tempore rem necessitatibus? Numquam itaque deleniti cumque accusamus tempore nesciunt rerum ut expedita, impedit culpa earum, doloremque a ex illum aliquam corrupti iusto adipisci. Ad blanditiis culpa inventore, quo non molestiae autem hic voluptate a alias nulla modi minus, illum cumque.
 </body>
-</html>";
-?>
+</html>
